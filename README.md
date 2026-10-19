@@ -10,6 +10,6 @@ CMM fue uno de mis primeros lenguajes de programacion, a diferencia de los que e
 
 CMM no aporta ningun tipo de soporte, si encuentras un error: ¡Enhorabuena! Pero no hare **NADA** al respecto.
 
-## Licensia
+## Licencia
 
-CMM no ofrece nigun tipo de garantia o licensia de copyright, me la pela completamente lo que hagas con el codigo.
+CMM no ofrece nigun tipo de garantia o licencia de copyright, me la pela completamente lo que hagas con el codigo.
