@@ -1,0 +1,1 @@
+cmm-pr(txt(Ingresa un numero que cumpla la ecuacion 0x=0)),dvar((num)ac(inp(txt(Tu respuesta: )))),1f((bool((calc(txt(0*),var(num))),(txt(==)),(num(0)))),(pr(txt(Correcto!))),(pr(txt(Incorrecto!)))).

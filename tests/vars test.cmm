@@ -1,0 +1,1 @@
+cmm-pr(try(dvar((test)ac(txt(Hola mundo!))))),pr(try(dvar((*test)ac(txt(Hola mundo!))))),pr(try(dvar((__test__)ac(txt(Hola mundo!))))),pr(try(nvar((test)ac(txt(Adios mundo!))))),pr(try(nvar((*test)ac(txt(Adios mundo!))))),pr(try(nvar((__test__)ac(txt(Adios mundo!))))).

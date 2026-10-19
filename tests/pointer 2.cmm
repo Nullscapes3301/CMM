@@ -1,0 +1,1 @@
+cmm-dvar((var)ac(num(10))),dvar((&pointer)ac(txt(var))),pr(txt(Initial value: ),var(var)),nvar((&pointer)ac(num(25))),pr(txt(Modified value: ),var(var)).

@@ -1,0 +1,1 @@
+cmm-dvar((*url)ac(inp(txt(URL > )))),dvar((*name)ac(inp(txt(NAME > )))),inp(txt(Warning! This script does not accept bytes(like images or videos))),save((wget(var(*url)))ac(var(*name))).
