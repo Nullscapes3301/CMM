@@ -1,0 +1,1 @@
+cmm-pr(type(True)),pr(type(False)),pr(type(None)),pr(type(txt(Hola mundo!))),pr(type(num(0))),pr(type(list([1,2,3]))),pr(type(...)).
