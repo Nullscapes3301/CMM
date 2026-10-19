@@ -1,0 +1,23 @@
+class CMMError(Exception):pass
+
+class CMMExit(CMMError):pass
+class SyntaxError(CMMError):pass
+class SafeModeError(CMMError):pass
+class EOF(CMMError):pass
+class PrintError(CMMError):pass
+class AssignError(CMMError):pass
+class AssignmentError(CMMError):pass
+class NotExistError(CMMError):pass
+class GenericError(CMMError):pass
+class ArgsError(CMMError):pass
+class VarNotExistError(CMMError):pass
+class FuncNotExistError(CMMError):pass
+class VarExistError(CMMError):pass
+class InvalidVarNameError(CMMError):pass
+class PointerError(CMMError):pass
+class VarModifyError(CMMError):pass
+class ModifyConstantError(CMMError):pass
+class NotABoolError(CMMError):pass
+class NotATimeUnitError(CMMError):pass
+class NotATypeError(CMMError):pass
+class EncodeError(CMMError):pass
