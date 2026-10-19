@@ -12,4 +12,4 @@ CMM no aporta ningun tipo de soporte, si encuentras un error: ¡Enhorabuena! Per
 
 ## Licencia
 
-CMM no ofrece nigun tipo de garantia o licencia de copyright, me la pela completamente lo que hagas con el codigo.
+CMM no ofrece nigun tipo de garantia o licencia de copyright, me la pela completamente lo que hagas con el codigo, **SOLO DAME CREDITO SI LO USAS O MODIFICAS**.
